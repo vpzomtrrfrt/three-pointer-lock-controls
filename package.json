@@ -1,0 +1,15 @@
+{
+  "name": "three-pointer-lock-controls",
+  "version": "1.0.0",
+  "description": "PointerLockControls from three.js",
+  "main": "PointerLockControls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpzomtrrfrt/three-pointer-lock-controls.git"
+  },
+  "author": "mrdoob",
+  "license": "MIT"
+}
